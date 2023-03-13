@@ -1,0 +1,36 @@
+@charset "UTF-8"; 
+
+*{
+    margin: 0px;
+    padding: 0px;  
+}
+
+html, body {
+    background: linear-gradient(to right, #f12711, #f5af19);
+}
+
+h1 {
+    background-color: #ff1900;
+    text-align: center;
+    margin: 10px 0px 30px 0px;
+    color: white;
+}
+section {
+    background-color: white;
+    margin: auto;
+    text-align: center;
+    border-radius: 20px;
+    width: 40vw;
+}
+
+.butao{
+    padding-top: 20px;
+ text-align: center;
+ border-radius: 10px;
+    
+}
+
+
+.butao img:hover {
+    cursor: pointer;
+}
